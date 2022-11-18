@@ -40,6 +40,11 @@ body {
 
 .Dubai img {
     width: 600px;
+    
+}
+
+.Dubai h1 {
+    font-size: 2em;
 }
 
 .MI {
@@ -63,7 +68,7 @@ body {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    padding-bottom: 50px;
+    padding-bottom: 112px;
     
 }
 
@@ -71,4 +76,24 @@ body {
     height: 400px;
 }
 
+h1 {
+    font-size: 3em;
+}
+
+footer {
+    background-color: rgb(2, 92, 92);
+    color: white;
+    margin-top: 40px;
+    position: fixed;
+    bottom: 0px;
+    width: 110%;
+    height: 6%;
+}
+
+.socialmedia {
+    font-size: 2.2em;
+    display: inline;
+    padding-left: 10px;
+    
+}
 
